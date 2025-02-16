@@ -5,7 +5,7 @@
 </a>
 </div>
 
-<h3 align="center">Energetic Storage Reborn</h3>
+<h3 align="center">Energetic Storage Reborn - Sunrise Network Version</h3>
 
 Energetic Storage Reborn is a plugin that is heavily inspired by the forge mods
 named [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)
